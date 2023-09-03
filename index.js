@@ -10,7 +10,7 @@ const button = document.getElementById('changeTextButton');
                 document.body.classList.remove('animate-background');
             } else {
                 output.style.fontSize = '36px'; // Enlarge the font size
-                output.textContent = 'Hello World! I am Vishnu';
+                output.textContent = 'Hello World! I am Vishnu Vikas';
                 button.style.backgroundColor = '#ff5722';
                 document.body.classList.add('animate-background');
             }
